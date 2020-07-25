@@ -1,0 +1,13 @@
+{
+    "users" : [
+      
+         {
+            "id": "uniqid-1",
+            "ad": "Tofiq",
+            "soyad": "Hajiyev",
+            "adress": "Moscow",
+            "salary": "5000Rubl"
+          }
+         
+    ]
+}

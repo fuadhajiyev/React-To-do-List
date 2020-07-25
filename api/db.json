@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "ad": "Fuad",
+      "soyad": "Hacıyev",
+      "adress": "Sumqayıt 17-ci mkr",
+      "salary": "1500 azn",
+      "id": 1
+    },
+    {
+      "ad": "Məmməd",
+      "soyad": "Qurbanov",
+      "adress": "Nizami rayonu",
+      "salary": "600azn",
+      "id": 2
+    },
+    {
+      "ad": "Murad",
+      "soyad": "Qasimov",
+      "adress": "Amsterdam",
+      "salary": "2000 $",
+      "id": 5
+    }
+  ]
+}
